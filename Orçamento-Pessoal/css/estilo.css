@@ -1,0 +1,29 @@
+body {
+	background-image: linear-gradient(#EFEFEF, #A5A5A5);
+}
+
+.tamanhoImagens{
+	width: 65%;
+	border: #A5A5A5 solid 5px;
+}
+
+.corBotao{
+	background-color: #555353;
+}
+
+#corTitulo{
+	color: #5c5cd6;
+}
+
+#corLinha{
+	color: white;
+	height:3px;
+}
+
+#fundoRodape{
+	background-color: #9C9999;
+}
+
+#fundoTopo{
+	background-image: linear-gradient(#EFEFEF, #A5A5A5);
+}
