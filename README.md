@@ -4,4 +4,4 @@ Projetos desenvolvidos durante a realização do curso "Desenvolvimento Web Comp
 
 # Tecnologias utilizadas
 
-HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress e muito mais! 
+HTML5, CSS3, BootStrap 4, Java Script. 
